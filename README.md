@@ -1,6 +1,8 @@
 # Setup
 ## Welcome to financial manager API
 
+This system use mongoDB as NoSQL and Redis to cache data
+
 ## Requiriment
 
 - NodeJs 14.x
