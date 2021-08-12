@@ -1,5 +1,5 @@
 # Setup
-## Welcome to my backend test
+## Welcome to financial manager API
 
 ## Requiriment
 
